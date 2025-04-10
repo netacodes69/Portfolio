@@ -16,9 +16,13 @@ const Hero = () => {
             I specialize in building modern and responsive web applications.
         </p>
         <div className='mt-8 space-x-4'>
-            <button
+        <a href="https://www.linkedin.com/in/utkarsh-pratap-460502251/" target="_blank" rel="noopener noreferrer">
+          <button
             className='bg-gradient-to-r from-green-400 to-blue-500 text-white
-            transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>Contact With Me</button>
+            transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>
+            Contact With Me
+          </button>
+        </a>
             <button
             className='bg-gradient-to-r from-pink-500 to-yellow-500 text-white
             transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>Resume</button>
