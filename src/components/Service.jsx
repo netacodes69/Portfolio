@@ -18,8 +18,8 @@ const services = [
   },
   {
     id: 4,
-    title: "Full-Stack Development",
-    description: "Combining both frontend and backend development skills.",
+    title: "Product Management",
+    description: "Experienced in product management, driving alignment between users, tech, and business outcomes.",
   },
   {
     id: 5,
