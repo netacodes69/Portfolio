@@ -16,7 +16,7 @@ const projects = [
     name: "CivicSense",
     technologies: "React, Express, MongoDB",
     image: civicSenseImage,
-    demo: "https://civic-pulse-gilt.vercel.app/", // replace with actual hosted link
+    demo: "https://civic-pulse-steel.vercel.app", // replace with actual hosted link
   },
   {
     id: 3,
